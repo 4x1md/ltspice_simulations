@@ -1,0 +1,7 @@
+# Language detection
+# KiCAD
+#*.kicad_pcb linguist-detectable=true
+#*.sch linguist-detectable=true
+# LTspice
+*.asc linguist-detectable=true
+*.plt linguist-detectable=true
