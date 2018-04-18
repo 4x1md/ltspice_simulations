@@ -4,4 +4,4 @@
 #*.sch linguist-detectable=true
 # LTspice
 *.asc linguist-detectable=true
-#*.plt linguist-detectable=true
+*.plt linguist-detectable=true
