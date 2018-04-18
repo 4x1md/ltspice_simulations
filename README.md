@@ -3,7 +3,9 @@ LTspice simulations.
 
 ## TRF Radio Receiver
 
-[Circuits](http://radiosparks.com/schematics.asp?UID=radio+receivers+-+trf)
+![Circuit](https://raw.githubusercontent.com/4x1md/ltspice_simulations/master/images/trf_receiver.gif)
+
+[Source](http://radiosparks.com/schematics.asp?UID=radio+receivers+-+trf)
 
 ## Links
 
